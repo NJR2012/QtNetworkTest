@@ -1,3 +1,5 @@
+/*
+
 #include "QtSql"
 
 void ConnectToDatabase()
@@ -17,3 +19,5 @@ void ConnectToDatabase()
     }
 
 }
+
+*/
